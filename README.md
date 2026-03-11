@@ -109,7 +109,7 @@ pnpm dev            # stub 模式开发（unbuild --stub）
 ## 致谢
 
 - **原创文本与创作思路** — [宁河图](https://linux.do/u/user2609/summary)，本项目的全部创作方法论、Prompt 设计和题材模板均源自其实战经验分享
-- **多模型协作架构** — [CCG Workflow](https://github.com/anthropics/claude-code)，本项目复用了 `codeagent-wrapper` 多模型编排工具和 CCG 的 Prompt 工程范式（四层继承模型、双模型交叉审查、多模型并行调度）
+- **多模型协作架构** — [CCG Workflow](https://github.com/fengshao1227/ccg-workflow)，本项目复用了 `codeagent-wrapper` 多模型编排工具和 CCG 的 Prompt 工程范式（四层继承模型、双模型交叉审查、多模型并行调度）
 
 ## 许可证
 
